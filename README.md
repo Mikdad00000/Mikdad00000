@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+<h1 align="center">Hi, I'm Mikdad Rahman</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <strong>AI-Native Full-Stack Developer · Enthusiastic Learner · Critical Thinker</strong><br/>
+  I build, break, and learn fast — turning ideas into intelligent products.
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://www.linkedin.com/in/mikdad-rahman/"><img src="https://img.shields.io/badge/LinkedIn-mikdad--rahman-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mikdad00000@gmail.com"><img src="https://img.shields.io/badge/Email-mikdad00000@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mikdad00000&style=flat&color=22d3ee" alt="profile views" />
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Software Engineer @ [PACGEM](https://pacgem.com)** — shipping AI-native features end-to-end
+- 3+ years building production systems across enterprise SaaS and AI-powered applications
+- Hands-on experience embedding **LLMs** and building **agentic workflows** into real products
+- Based in **Dhaka, Bangladesh** · UTC+6 · Open to opportunities
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Frontend**
 
-### `npm run build`
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Backend**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**AI & LLM**
 
-### `npm run eject`
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Databases & DevOps**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### GitHub Stats
 
-## Learn More
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikdad00000&show_icons=true&theme=dark&hide_border=true&bg_color=0b0c0e&title_color=22d3ee&icon_color=22d3ee&text_color=e8eaed" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikdad00000&layout=compact&theme=dark&hide_border=true&bg_color=0b0c0e&title_color=22d3ee&text_color=e8eaed" height="160" />
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <i>Always evolving · Always shipping</i>
+</p>
